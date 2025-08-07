@@ -1,7 +1,8 @@
 # 🔍 Agentic AI Splunk Toolkit
 
 A comprehensive application that converts natural language questions to SPL (Search Processing Language) queries using OpenAI and executes them on Splunk. Features both a modern Streamlit UI and comprehensive REST API.
-<img width="1762" height="770" alt="image" src="https://github.com/user-attachments/assets/ff38c417-48be-4a7b-9682-8d7f73007f95" />
+<img width="1385" height="776" alt="image" src="https://github.com/user-attachments/assets/6010a21b-ab6a-48c7-80e5-ff0a19bfb87d" />
+
 
 
 ## ✨ Features
