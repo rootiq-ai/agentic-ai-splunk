@@ -1,7 +1,5 @@
-"""Core functionality for Splunk Agentic AI."""
+"""Splunk Agentic AI - Core package."""
 
-from .splunk_client import SplunkClient
-from .openai_client import OpenAIClient
-from .query_processor import QueryProcessor
-
-__all__ = ["SplunkClient", "OpenAIClient", "QueryProcessor"]
+__version__ = "1.0.0"
+__author__ = "Splunk Agentic AI Team"
+__description__ = "Natural language to SPL query conversion and execution"
