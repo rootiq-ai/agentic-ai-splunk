@@ -1,4 +1,4 @@
-# 🔍 Agentic AI Splunk Toolkit
+# 🔍 Agentic AI Splunk
 
 A comprehensive application that converts questions into SPL (Search Processing Language) queries using Large Language Models (LLMs) and executes them on Splunk, featuring a robust REST API for seamless integration and automation.
 <img width="1385" height="776" alt="image" src="https://github.com/user-attachments/assets/6010a21b-ab6a-48c7-80e5-ff0a19bfb87d" />
