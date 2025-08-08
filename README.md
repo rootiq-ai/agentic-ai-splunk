@@ -64,7 +64,7 @@ An AI-powered application that lets you ask questions in plain English, automati
 
 ```bash
 git clone https://github.com/rootiq-ai/agentic-ai-splunk.git
-cd splunk-agentic-ai
+cd agentic-ai-splunk
 ```
 
 ### 2. Install Dependencies
