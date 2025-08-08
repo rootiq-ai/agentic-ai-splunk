@@ -11,7 +11,7 @@ from typing import Dict, Any, List, Optional
 
 # Configure page
 st.set_page_config(
-    page_title="Splunk Agentic AI",
+    page_title="Agentic AI Splunk",
     page_icon="🔍",
     layout="wide",
     initial_sidebar_state="expanded"
