@@ -63,7 +63,7 @@ An AI-powered application that lets you ask questions in plain English, automati
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-org/splunk-agentic-ai.git
+git clone https://github.com/rootiq-ai/agentic-ai-splunk.git
 cd splunk-agentic-ai
 ```
 
