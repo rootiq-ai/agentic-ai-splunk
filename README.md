@@ -55,7 +55,7 @@ An AI-powered application that lets you ask questions in plain English, automati
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.11+
 - Splunk Enterprise/Cloud instance
 - OpenAI API key
 - Git
